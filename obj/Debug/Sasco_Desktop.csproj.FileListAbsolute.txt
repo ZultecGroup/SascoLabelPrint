@@ -1,0 +1,777 @@
+D:\Desktopprojects\Sasco\bin\Debug\Imtiaz_AlArbani.exe.config
+D:\Desktopprojects\Sasco\bin\Debug\Imtiaz_AlArbani.exe
+D:\Desktopprojects\Sasco\bin\Debug\Imtiaz_AlArbani.pdb
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.Licensing.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Desktopprojects\Sasco\bin\Debug\Json.Net.dll
+D:\Desktopprojects\Sasco\bin\Debug\Newtonsoft.Json.dll
+D:\Desktopprojects\Sasco\bin\Debug\System.Net.Http.Formatting.dll
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Desktopprojects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Desktopprojects\Sasco\bin\Debug\Newtonsoft.Json.xml
+D:\Desktopprojects\Sasco\bin\Debug\System.Net.Http.Formatting.xml
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.BrandFrm.resources
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.CompanyInformationFrm.resources
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.Dashboard.resources
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.DeviceInit.resources
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.LabelFrm.resources
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.ListAndCreateBtnFrm.resources
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.LoginFrm.resources
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.Properties.Resources.resources
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.SettingFrm.resources
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.StoreFrm.resources
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.UserFrm.resources
+D:\Desktopprojects\Sasco\obj\Debug\Sasco_Desktop.csproj.GenerateResource.cache
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.exe.licenses
+D:\Desktopprojects\Sasco\obj\Debug\Sasco_Desktop.csproj.CoreCompileInputs.cache
+D:\Desktopprojects\Sasco\obj\Debug\Sasco_Desktop.csproj.CopyComplete
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.exe
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.pdb
+D:\Desktopprojects\Sasco\obj\Debug\Sasco_Desktop.csprojAssemblyReference.cache
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.StoreLabels.resources
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.StoresMultipleFrm.resources
+D:\Desktopprojects\Sasco\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Desktopprojects\Sasco\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\Desktopprojects\Sasco\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Desktopprojects\Sasco\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Desktopprojects\Sasco\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\Sasco\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\Sasco\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\Sasco\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\Sasco\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\Sasco\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\Sasco\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\Sasco\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\Sasco\obj\Debug\Imtiaz_AlArbani.ForgotPassword.resources
+E:\desktop projects\Sasco\bin\Debug\Imtiaz_AlArbani.exe.config
+E:\desktop projects\Sasco\bin\Debug\Imtiaz_AlArbani.exe
+E:\desktop projects\Sasco\bin\Debug\Imtiaz_AlArbani.pdb
+E:\desktop projects\Sasco\bin\Debug\Bunifu.Dataviz.WinForms.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.Licensing.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\desktop projects\Sasco\bin\Debug\Json.Net.dll
+E:\desktop projects\Sasco\bin\Debug\Newtonsoft.Json.dll
+E:\desktop projects\Sasco\bin\Debug\System.Net.Http.Formatting.dll
+E:\desktop projects\Sasco\bin\Debug\Bunifu.Dataviz.WinForms.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\desktop projects\Sasco\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\desktop projects\Sasco\bin\Debug\DevExpress.Data.v19.1.xml
+E:\desktop projects\Sasco\bin\Debug\DevExpress.Xpo.v19.1.xml
+E:\desktop projects\Sasco\bin\Debug\Newtonsoft.Json.xml
+E:\desktop projects\Sasco\bin\Debug\System.Net.Http.Formatting.xml
+E:\desktop projects\Sasco\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\desktop projects\Sasco\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\desktop projects\Sasco\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\desktop projects\Sasco\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\desktop projects\Sasco\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+E:\desktop projects\Sasco\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+E:\desktop projects\Sasco\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+E:\desktop projects\Sasco\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+E:\desktop projects\Sasco\obj\Debug\Sasco_Desktop.csproj.AssemblyReference.cache
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.BrandFrm.resources
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.CompanyInformationFrm.resources
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.Dashboard.resources
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.DeviceInit.resources
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.ForgotPassword.resources
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.LabelFrm.resources
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.ListAndCreateBtnFrm.resources
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.LoginFrm.resources
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.Properties.Resources.resources
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.SettingFrm.resources
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.StoreFrm.resources
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.StoreLabels.resources
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.StoresMultipleFrm.resources
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.UserFrm.resources
+E:\desktop projects\Sasco\obj\Debug\Sasco_Desktop.csproj.GenerateResource.cache
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.exe.licenses
+E:\desktop projects\Sasco\obj\Debug\Sasco_Desktop.csproj.CoreCompileInputs.cache
+E:\desktop projects\Sasco\obj\Debug\Sasco_Desktop.csproj.CopyComplete
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.exe
+E:\desktop projects\Sasco\obj\Debug\Imtiaz_AlArbani.pdb
+D:\Desktopprojects\Sasco_new\obj\Debug\Sasco_Desktop.csprojAssemblyReference.cache
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.exe
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.pdb
+D:\Desktopprojects\Sasco_new\bin\Debug\Imtiaz_AlArbani.exe.config
+D:\Desktopprojects\Sasco_new\bin\Debug\Imtiaz_AlArbani.exe
+D:\Desktopprojects\Sasco_new\bin\Debug\Imtiaz_AlArbani.pdb
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.Licensing.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Json.Net.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Newtonsoft.Json.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\System.Net.Http.Formatting.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\Newtonsoft.Json.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\System.Net.Http.Formatting.xml
+D:\Desktopprojects\Sasco_new\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\Sasco_new\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.BrandFrm.resources
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.CompanyInformationFrm.resources
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.Dashboard.resources
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.DeviceInit.resources
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.ForgotPassword.resources
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.LabelFrm.resources
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.ListAndCreateBtnFrm.resources
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.LoginFrm.resources
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.Properties.Resources.resources
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.SettingFrm.resources
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.StoreFrm.resources
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.StoreLabels.resources
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.StoresMultipleFrm.resources
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.UserFrm.resources
+D:\Desktopprojects\Sasco_new\obj\Debug\Sasco_Desktop.csproj.GenerateResource.cache
+D:\Desktopprojects\Sasco_new\obj\Debug\Imtiaz_AlArbani.exe.licenses
+D:\Desktopprojects\Sasco_new\obj\Debug\Sasco_Desktop.csproj.CoreCompileInputs.cache
+D:\Desktopprojects\Sasco_new\obj\Debug\Sasco_Desktop.csproj.CopyComplete
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Imtiaz_AlArbani.exe.config
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Imtiaz_AlArbani.exe
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Imtiaz_AlArbani.pdb
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.Licensing.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Json.Net.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Newtonsoft.Json.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\System.Net.Http.Formatting.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\Newtonsoft.Json.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\System.Net.Http.Formatting.xml
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.BrandFrm.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.CompanyInformationFrm.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.Dashboard.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.DeviceInit.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.ForgotPassword.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.LabelFrm.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.ListAndCreateBtnFrm.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.LoginFrm.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.Properties.Resources.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.SettingFrm.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.StoreFrm.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.StoreLabels.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.StoresMultipleFrm.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.UserFrm.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Sasco_Desktop.csproj.GenerateResource.cache
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.exe.licenses
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Sasco_Desktop.csproj.CoreCompileInputs.cache
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Sasco_Desktop.csproj.CopyComplete
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.exe
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.pdb
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\ZulSoft.License.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\ZulTools.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\DevExpress.Data.v18.1.dll
+D:\Desktopprojects\sasco latest\Sasco_new\bin\Debug\ZulSoft.License.pdb
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Imtiaz_AlArbani.Registration.resources
+D:\Desktopprojects\sasco latest\Sasco_new\obj\Debug\Sasco_Desktop.csprojAssemblyReference.cache
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Imtiaz_AlArbani.exe.config
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Imtiaz_AlArbani.exe
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Imtiaz_AlArbani.pdb
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.Licensing.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Json.Net.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\ZulSoft.License.pdb
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\shahroz\Downloads\Sasco_new\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Sasco_Desktop.csproj.AssemblyReference.cache
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.BrandFrm.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.CompanyInformationFrm.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.Dashboard.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.DeviceInit.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.ForgotPassword.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.LabelFrm.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.ListAndCreateBtnFrm.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.LoginFrm.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.Properties.Resources.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.Registration.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.SettingFrm.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.StoreFrm.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.StoreLabels.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.StoresMultipleFrm.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.UserFrm.resources
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Sasco_Desktop.csproj.GenerateResource.cache
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.exe.licenses
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Sasco_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Sasco_Desktop.csproj.CopyComplete
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.exe
+C:\Users\shahroz\Downloads\Sasco_new\obj\Debug\Imtiaz_AlArbani.pdb
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Imtiaz_AlArbani.exe.config
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Imtiaz_AlArbani.exe
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Imtiaz_AlArbani.pdb
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.Licensing.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Json.Net.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Newtonsoft.Json.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\System.Net.Http.Formatting.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\DevExpress.Data.v18.1.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\Newtonsoft.Json.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\System.Net.Http.Formatting.xml
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\ZulSoft.License.pdb
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Sasco_Desktop.csprojAssemblyReference.cache
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.BrandFrm.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.CompanyInformationFrm.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.Dashboard.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.DeviceInit.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.ForgotPassword.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.LabelFrm.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.ListAndCreateBtnFrm.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.LoginFrm.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.Properties.Resources.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.Registration.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.SettingFrm.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.StoreFrm.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.StoreLabels.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.StoresMultipleFrm.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.UserFrm.resources
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Sasco_Desktop.csproj.GenerateResource.cache
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.exe.licenses
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Sasco_Desktop.csproj.CoreCompileInputs.cache
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Sasco_Desktop.csproj.CopyComplete
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.exe
+D:\Desktopprojects\sasco latest\New folder\Sasco_new\obj\Debug\Imtiaz_AlArbani.pdb
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.Licensing.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Json.Net.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Newtonsoft.Json.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\System.Net.Http.Formatting.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Newtonsoft.Json.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\System.Net.Http.Formatting.xml
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco_Desktop.csproj.GenerateResource.cache
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco_Desktop.csproj.CoreCompileInputs.cache
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco_Desktop.csproj.CopyComplete
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco_Desktop.csproj.ResolveComReference.cache
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Sasco.exe.config
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Sasco.exe
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\bin\Debug\Sasco.pdb
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.Properties.Resources.resources
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.exe.licenses
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.exe
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.pdb
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.CompanyInformationFrm.resources
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.Dashboard.resources
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.ForgotPassword.resources
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.LabelFrm.resources
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.LoginFrm.resources
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.Registration.resources
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.SettingFrm.resources
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.StoreFrm.resources
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.StoreLabels.resources
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.StoresMultipleFrm.resources
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.UserFrm.resources
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.AcknowledgementFrm.resources
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco_Desktop.csprojAssemblyReference.cache
+D:\Desktopprojects\sasco latest\New folder\New folder\Sasco_new\obj\Debug\Sasco.LoaderFrm.resources
